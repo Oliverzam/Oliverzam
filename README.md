@@ -58,15 +58,6 @@ Tesis de grado. Detecta y cuantifica malezas en cultivos de papa desde imágenes
 
 `Python` `TensorFlow` `Keras` `Mask R-CNN` `Flask` `Docker`
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-![Oliver's GitHub Stats](https://streak-stats.demolab.com?user=Oliverzam&theme=tokyonight&hide_border=true)
-</div>
-
----
 
 ## 📫 Contacto
 
