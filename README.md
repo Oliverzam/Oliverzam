@@ -63,11 +63,9 @@ Tesis de grado. Detecta y cuantifica malezas en cultivos de papa desde imágenes
 ## 📊 GitHub Stats
 
 <div align="center">
+![Oliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oliverzam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Oliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oliverzam&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliverzam&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliverzam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 </div>
 
 ---
